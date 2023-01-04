@@ -1,5 +1,5 @@
 # January
-![](media/january.png)
+![](media/january.webp)
  
 1. The door to this room opens easily, despite its obvious weight. Inside is revealed a room with no light, apart from
 what streams from the outside. The stone walls are dump and cold to the touch. The floor is covered with muddy, clawed
